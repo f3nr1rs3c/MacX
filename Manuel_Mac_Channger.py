@@ -13,8 +13,7 @@ os.system("clear")
 f = Figlet(font='slant')
 print(Fore.BLUE + f.renderText('Mac Channger') + Fore.RESET)
 
-# os.system(Fore.BLUE + "figlet Mac Channger" + Fore.RESET)
-print(Fore.RED + "          | - | Made By : Fenrir - Cyber Security Specialist | - |         " + Fore.RESET)
+print(Fore.RED + "          | - | Made By : Fenrir - Penetration Tester | - |         " + Fore.RESET)
     
 print("""
 
