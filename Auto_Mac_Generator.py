@@ -9,6 +9,7 @@ init(autoreset=True)
 
 # Banner oluşturma
 banner = pyfiglet.figlet_format("Random Mac", font="slant")
+print(Fore.RED + "          | - | Made By : Fenrir - Penetration Tester | - |         " + Fore.RESET)
 print(banner)
 
 def change_mac(interface):
